@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729190026347",
+    "project_id": "kumail-project-6181b",
+    "storage_bucket": "kumail-project-6181b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729190026347:android:32cfa7146057a25e7ab52e",
+        "android_client_info": {
+          "package_name": "com.patato.fproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729190026347-gi37jfbfjjmmnfsupdmm555bj6h1vmq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptb0cT238PrZ3YJVEsAKVCi5HXhVMxC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729190026347-gi37jfbfjjmmnfsupdmm555bj6h1vmq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
